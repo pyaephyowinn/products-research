@@ -44,22 +44,7 @@ MeetGeek     ▒ ~3
 
 _Note: ▒ represents <10 languages._
 
-### 3. Comparison Table
-
-| Platform     | Est. User Base | Languages | Starting Price        | MVP Features                                                                  | Release Date |
-| ------------ | -------------- | --------- | --------------------- | ----------------------------------------------------------------------------- | ------------ |
-| Otter.ai     | 1M             | ~1        | $8.33/month           | Real-time transcription, Zoom/Teams integration, summaries, speaker ID        | 2016         |
-| Rev          | 500K           | 38        | $0.25/min             | AI/human transcription, captions, web-based editor, meeting notetaker         | 2010         |
-| Sonix        | 200K           | 54+       | $10/audio hour        | Fast transcription, translation, subtitles, in-browser editor                 | 2017         |
-| Transkriptor | 100K           | 100+      | Pay-as-you-go         | High-accuracy transcription, translation, collaborative editing, subtitles    | 2021         |
-| Notta        | 5M             | 58        | $9/month              | Transcription, summarization, real-time translation, Slack/Notion integration | 2020         |
-| Fireflies.ai | 100K           | 30+       | $10/month             | Meeting transcription, AI search, collaboration, CRM integration              | 2016         |
-| Trint        | 50K            | 40+       | ~$80/month            | Live transcription, collaborative editing, captions, secure storage           | 2014         |
-| TurboScribe  | 50K            | 98+       | Free (paid plans N/A) | Unlimited transcription, high accuracy, translation, subtitle exports         | 2022         |
-| Scribie      | 30K            | ~1        | ~$0.80/min            | AI/human transcription, customizable formatting, web-based editor             | 2008         |
-| MeetGeek     | 10K            | ~3        | $13.11/month          | Meeting transcription, AI summaries, Google Drive/Notion integration          | 2020         |
-
-### 4. Key Metrics Table
+### 3. Key Metrics Table
 
 | Platform     | Est. User Base | Supported Languages | Release Date | Starting Price        | MVP Features                                                                  |
 | ------------ | -------------- | ------------------- | ------------ | --------------------- | ----------------------------------------------------------------------------- |
